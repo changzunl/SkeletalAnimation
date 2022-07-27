@@ -1,0 +1,8 @@
+<GameConfig
+    screenSizeX="1600"
+    screenSizeY="800"
+    windowTitle="Doomenstein"
+    windowAspect="2"
+    consoleLines="40"
+    defaultMap="TestMap"
+/>
